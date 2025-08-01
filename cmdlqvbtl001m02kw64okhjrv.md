@@ -78,4 +78,4 @@ Comienza con paper trading para validar estrategias antes del dinero real.
 
 \- **Nivel 3-5**: Estrategias avanzadas para traders experimentados
 
-**Tu primera operación**: En 7 días tendrás acceso completo para implementar covered calls, generando tu primera prima mientras **Stock Option Manager** guía cada decisión con análisis de riesgo profesional.
+**Tu primera operación**: En 7 días tendrás acceso completo para implementar covered calls, generando tu primera prima mientras [**Stock Option Manager**](https://www.stockoptionmanager.com/) guía cada decisión con análisis de riesgo profesional.
